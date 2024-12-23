@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingyu Li (李璟钰). I'm currently a candidate Ph.D at College of Intelligent Computing, Tianjin University, directed by Prof. Zhiyong Feng ([his website](https://cic.tju.edu.cn/faculty/zyfeng/index.html)) and Dongxiao He ([her website](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm)). In 2022, I got my bachelor degree in Hohai University, Nanjing. My current research interest includes recommender system, interactive recommendation, reinforcement learning and service computing. I'm very happy if we could have talks on researching issues especially recommender system.
+My name is Jingyu Li (李璟钰). I'm currently a candidate Ph.D at College of Intelligent Computing, Tianjin University, directed by Prof. Zhiyong Feng ([his website](https://cic.tju.edu.cn/faculty/zyfeng/index.html)) and Prof. Dongxiao He ([her website](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm)). In 2022, I got my bachelor degree in Hohai University, Nanjing. My current research interest includes recommender system, interactive recommendation, reinforcement learning and service computing. I'm very happy if we could have talks on researching issues especially recommender system.
 
 Research Papers
 ======
