@@ -11,20 +11,14 @@ My name is Jingyu Li (李璟钰). I'm currently a candidate Ph.D at College of I
 
 Research Papers
 ======
-+ Contrastive Recommendation for Interactive Recommendation
-
-  **Jingyu Li**, Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu
-  
++ Contrastive Recommendation for Interactive Recommendation<br>
+  **Jingyu Li**, Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu<br>
   Conference Paper: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) **(CCF-A)**
 
-+ FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms
-  
-  Guoli Wu, Zhiyong Feng, Shizhan Chen, Hongyue Wu*, Xiao Xue, Jianmao Xiao, Guodong Fan, Hongqi Chen, **Jingyu Li**
-  
++ FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms<br>
+  Guoli Wu, Zhiyong Feng, Shizhan Chen, Hongyue Wu*, Xiao Xue, Jianmao Xiao, Guodong Fan, Hongqi Chen, **Jingyu Li**<br>
   Peoriodical Paper: IEEE Transactions on Knowledge and Data Engineering (TKDE) **(CCF-A, CAS-2)**
 
-+ Optimization of Models and Strategies for Computation Offloading in the Internet of Vehicles: Efficiency and Trust
-  
-  Qinghang Gao; Jianmao Xiao; Zhiyong Feng*; **Jingyu Li**; Yang Yu; Hongqi Chen; Qiaoyun Yin
-  
++ Optimization of Models and Strategies for Computation Offloading in the Internet of Vehicles: Efficiency and Trust<br>
+  Qinghang Gao; Jianmao Xiao; Zhiyong Feng*; **Jingyu Li**; Yang Yu; Hongqi Chen; Qiaoyun Yin<br>
   Peoriodical Paper: IEEE Transactions on Mobile Computing **(CCF-A, CAS-2)**
