@@ -11,10 +11,17 @@ My name is Jingyu Li (李璟钰). I'm currently a candidate Ph.D at College of I
 
 Research Papers
 ======
+---
+**2025**
++ **Incorporating Forgetting Curve and Memory Replay for Evolving Socially-aware Recommendation**<br>
+  Hongqi Chen, Zhiyong Feng, Shizhan Chen, Hongyue Wu, Yingchao Sun, **Jingyu Li**, Qinghang Gao, Lu Zhang, Xiao Xue
+  Peoriodical Paper: Information Processing & Management (IPM) **(CCF-B, CAS-1)**
+
 + **Contrastive Recommendation for Interactive Recommendation**<br>
   **Jingyu Li**, Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu<br>
   Conference Paper: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) **(CCF-A)**
-
+---
+**2024**
 + **FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms**<br>
   Guoli Wu, Zhiyong Feng, Shizhan Chen, Hongyue Wu*, Xiao Xue, Jianmao Xiao, Guodong Fan, Hongqi Chen, **Jingyu Li**<br>
   Peoriodical Paper: IEEE Transactions on Knowledge and Data Engineering (TKDE) **(CCF-A, CAS-2)**
