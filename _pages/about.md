@@ -14,7 +14,7 @@ Research Papers
 ---
 **2025**
 + **Incorporating Forgetting Curve and Memory Replay for Evolving Socially-aware Recommendation**<br>
-  Hongqi Chen, Zhiyong Feng, Shizhan Chen, Hongyue Wu, Yingchao Sun, **Jingyu Li**, Qinghang Gao, Lu Zhang, Xiao Xue<br>
+  Hongqi Chen, Zhiyong Feng, Shizhan Chen, Hongyue Wu*, Yingchao Sun, **Jingyu Li**, Qinghang Gao, Lu Zhang, Xiao Xue<br>
   Peoriodical Paper: Information Processing & Management (IPM) **(CCF-B, CAS-1)**
 
 + **Contrastive Recommendation for Interactive Recommendation**<br>
