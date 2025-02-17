@@ -17,7 +17,7 @@ Research Papers
   Hongqi Chen, Zhiyong Feng, Shizhan Chen, Hongyue Wu*, Yingchao Sun, **Jingyu Li**, Qinghang Gao, Lu Zhang, Xiao Xue<br>
   Peoriodical Paper: Information Processing & Management (IPM) **(CCF-B, CAS-1)**
 
-+ **Contrastive Recommendation for Interactive Recommendation**<br>
++ **Contrastive Representation for Interactive Recommendation**<br>
   **Jingyu Li**, Zhiyong Feng*, Dongxiao He, Hongqi Chen, Qinghang Gao, Guoli Wu<br>
   Conference Paper: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25) **(CCF-A)**
 
